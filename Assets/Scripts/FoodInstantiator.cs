@@ -17,11 +17,6 @@ public class FoodInstantiator : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     void CloneFood()
     {
         if (cloneCount<maxClones) {
